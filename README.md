@@ -4,7 +4,7 @@ Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Ingenierio de Computadores
 --------------------------
 
-Recien graduado por la Universidad Complutense de Madrid, con ganas de aprender siempre nuevos lenguajes y tecnologias que aparezcan. Me gusta estar actualizado con lo que ocurre constantemente en el mundo de la informática
+Recien graduado por la Universidad Complutense de Madrid, con ganas de aprender siempre nuevos lenguajes y tecnologias emergentes. Me gusta estar actualizado con lo que ocurre constantemente en el mundo de la informática
 
 * 🌍  Vivo en Madrid
 * ✉️  Puedes contactar conmigo a mi correo [muadroh@gmail.com](mailto:muadroh@gmail.com)
