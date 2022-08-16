@@ -7,7 +7,7 @@ Ingenierio de Computadores
 Recien graduado por la Universidad Complutense de Madrid, con ganas de aprender siempre nuevos lenguajes y tecnologias emergentes. Me gusta estar actualizado con lo que ocurre constantemente en el mundo de la informática
 
 * 🌍  Vivo en Madrid
-* ✉️  Puedes contactar conmigo a mi correo [muadroh@gmail.com](mailto:muadroh@gmail.com)
+* ✉️  Puede ponerse en contacto conmigo en [muadroh@gmail.com](mailto:muadroh@gmail.com)
 * ⚡  Interesado en Big data / Blockchain
 
 ### Habilidades
