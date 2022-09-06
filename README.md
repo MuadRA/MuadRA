@@ -6,7 +6,7 @@ Ingenierio de Computadores
 
 Recien Graduado en Ingeniería de Computadores por la Universidad Complutense de Madrid, con ganas de aprender siempre nuevos lenguajes y tecnologias emergentes. Intento estar actualizado con lo que ocurre constantemente en el mundo de la informática, me adapto muy bien a todo ello porque disfruto haciéndolo!
 
-* 🌍  Vivo en Madrid
+* 🌍  Vivo en Madrid pero también puedo trabajar en remoto
 * ✉️  Puedes contactar conmigo en [muadroh@gmail.com](mailto:muadroh@gmail.com)
 * ⚡  Interesado en Big data / Blockchain
 
