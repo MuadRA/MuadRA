@@ -8,7 +8,7 @@ Recien Graduado en Ingeniería de Computadores por la Universidad Complutense de
 
 * 🌍  Madrid o remoto
 * ✉️  Puedes contactar conmigo en [muadroh@gmail.com](mailto:muadroh@gmail.com)
-* ⚡  Interesado en Big data / Blockchain
+* ⚡  Interesado en C++ / Big data / Blockchain
 
 ### Habilidades
 
